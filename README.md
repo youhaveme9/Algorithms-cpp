@@ -1,4 +1,4 @@
-# Algorithms_CPP
+# Algorithms-CPP
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/Roshaen/Algorithms_cpp/blob/main/CONTRIBUTING.md)&nbsp;
  ### Algorithms Implimented in C++ (For practice and educational purpose)
  
