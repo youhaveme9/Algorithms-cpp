@@ -1,3 +1,14 @@
+/*  Enter the numbers of column
+    5
+    Enter the number of rows
+    4
+    ****
+    ****
+    ****
+    ****
+    ****    */
+
+
 # include <iostream>
 using namespace std;
 
